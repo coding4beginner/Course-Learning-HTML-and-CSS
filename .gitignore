@@ -1,0 +1,12 @@
+Library/
+.cache/
+.local/
+
+set_env.sh
+.envrc
+
+.viminfo
+*.swp
+
+.gitconfig
+.config/gh/hosts.yml
